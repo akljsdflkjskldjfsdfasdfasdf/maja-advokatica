@@ -1,0 +1,6 @@
+[build]
+  base = "advokat-sajt"
+  command = "npm run build"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
