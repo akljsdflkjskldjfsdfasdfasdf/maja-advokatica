@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ana Petrović | Advokat",
+  title: "Maja Mrđen | Advokat",
   description:
     "Profesionalna pravna zastupanja i savetovanje. Krivično, porodično i privredno pravo. Vaša pravna sigurnost je naš prioritet.",
   keywords:
