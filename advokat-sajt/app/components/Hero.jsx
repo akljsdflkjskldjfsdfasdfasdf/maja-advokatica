@@ -200,7 +200,7 @@ export default function Hero({ showMobileCta, scrollPct }) {
               "url('https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1800&q=80&fit=crop')",
             backgroundSize: "cover",
             backgroundPosition: "center 40%",
-            opacity: 0.68,
+            opacity: 0.78,
           }}
         />
 
